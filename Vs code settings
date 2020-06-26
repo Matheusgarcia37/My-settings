@@ -1,0 +1,37 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+  
+    // Fonte do terminal
+    "terminal.integrated.fontSize": 14,
+   
+    // Config do tamanho e familia da fonte
+    "editor.tabSize": 2,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    
+    // Config recomendada pelo BootCamp
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+
+    "editor.rulers": [80, 120],
+
+    //configuração JSX html em javascript
+    "emmet.syntaxProfiles":{ "javascript": "jsx" },
+    "emmet.includeLanguages":{ "javascript": "javascriptreact" },
+  
+    // auto save
+    "window.zoomLevel": 0,
+    "files.autoSave": "off",
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.colorTheme": "Dracula",
+    
+    
+}
